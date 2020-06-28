@@ -40,7 +40,7 @@ U okviru sistema postoje sledeće klijentske aplikacije sa navedenim mogućnosti
 ➢ Sve funkcionalnosti koje imaju ostali klijenti 
 
 
-Klijentske aplikacije su konfigurisane za rad sa delovima servisa koji su im namenjenji. 
+Klijentske aplikacije su konfigurisane za rad sa delovima servisa koji su im namenjeni. 
 
 
 Autor: Vanja Cvijetić
