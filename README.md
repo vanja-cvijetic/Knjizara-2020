@@ -43,4 +43,11 @@ U okviru sistema postoje sledeće klijentske aplikacije sa navedenim mogućnosti
 Klijentske aplikacije su konfigurisane za rad sa delovima servisa koji su im namenjeni. 
 
 
+
+Način korišćenja programa:
+1. Postaviti Host kao StartUp Project 
+2. Pokrenuti pomoću CTR+F5
+3. Redom postavljati klijente kao StartUp Project i pokretati ih (CTR+F5)
+
+
 Autor: Vanja Cvijetić
